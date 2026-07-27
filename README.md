@@ -1,6 +1,8 @@
-# Code repository for "xVLM2Vec: Adapting LVLM-Based Embedding Models to Multilinguality Using Self-Knowledge Distillation"
+# Code repository for "MAMMa: Adaptation of Multimodal LLM Embeddings to Multilinguality"
 
-This repository contains all steps that have been performed for xVLM2Vec.
+This repository contains all steps that have been performed for MAMMa.
+
+All resources (models, data) can be accessed [here](https://huggingface.co/collections/swap-uniba/lvlms-for-retrieval).
 
 All steps of the pipeline (translation, training and evaluation) have a singularity definition file. To build a container from this definition file do the following:
 
