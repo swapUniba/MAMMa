@@ -52,6 +52,6 @@ In [requirements/requirements_eval](requirements/requirements_eval/) you can fin
 
 To evaluate VLM2Vec models, there is a similar pipeline using the [vlm2vec_process.py](vlm2vec_process.py) and the [vlm2vec_compute.py](vlm2vec_compute.py) scripts.
 
-The only thing that changes is that model checkpoint should now be a path to a model trained using the VLM2Vec or xVLM2Vec pipeline.
+The only thing that changes is that model checkpoint should now be a path to a model trained using the VLM2Vec or MAMMa pipeline.
 
 Final results will also be logged in the results directory.
